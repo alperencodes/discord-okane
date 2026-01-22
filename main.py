@@ -1,6 +1,3 @@
-# Discord coinbot written in python by vanshiyo#0001
-# Copyright © vanshiyo 2022 - All Rights Reserved
-
 import discord
 from discord.ext import commands
 import random
